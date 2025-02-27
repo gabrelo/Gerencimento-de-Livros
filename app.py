@@ -97,3 +97,5 @@ if __name__ == '__main__':
     init_db() #Inicializa o banco de dados
     app.run(port=5000, host='localhost', debug=True)
 
+#Fim do código
+
